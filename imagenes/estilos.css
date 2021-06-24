@@ -1,0 +1,39 @@
+*{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	vertical-align: baseline;
+	box-sizing: border-box;
+}        
+
+body{
+	background: #F9F2F9;
+	font-family: sans-serif;
+	padding-top: 15px;
+	transition: padding-top 0.7s;
+}
+
+h1{
+    padding: 10px;
+    margin: 10px;
+}
+
+section{
+	margin: 10px 20px;
+	padding: 30px;
+	background: #00BFFF;
+	border-radius: 4px;
+    color: white;
+	box-shadow: 0 1px 0 rgba(0, 0, 0, 0.2);
+}
+
+button{
+	background-color: #FACC2E; 
+	color: #000000; 
+	font-size= 20px; 
+	text-align: center; 
+	padding: 6px 10px; 
+	width: 140px; 
+	border: 1px solid #000000; 
+	border-radius: 12px;
+}
